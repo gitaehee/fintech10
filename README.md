@@ -5,5 +5,5 @@
 ### 헤딩3
 
 ```
-someting
+something
 ```
